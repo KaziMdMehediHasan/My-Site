@@ -88,6 +88,8 @@ p{
 
 .bottom-cloud{
   position: absolute;
+  left: 180px;
+  top: 150px;
 
 }
 
@@ -138,3 +140,5 @@ p{
   background-color: #F6F6F6;
   padding: 50px 0 20px;
 }
+
+
