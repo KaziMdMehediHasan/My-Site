@@ -90,6 +90,7 @@ p{
   position: absolute;
   left: 180px;
   top: 150px;
+  width: 25%;
 
 }
 
@@ -97,6 +98,7 @@ p{
   position:absolute;
   right: 180px;
   top: 50px;
+  width: 25%;
 }
 
 
