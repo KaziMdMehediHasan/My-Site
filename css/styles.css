@@ -90,10 +90,11 @@ p{
 
 .bottom-cloud{
   position: absolute;
+  
 }
 
 .top-cloud{
-  position:absolute;
+  position: absolute;
   right: 180px;
   top: 50px;
 }
